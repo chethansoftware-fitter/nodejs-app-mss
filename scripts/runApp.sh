@@ -6,6 +6,7 @@ echo 'The following "npm" command runs your Node.js application'
 
 set -x
 npm start &
+echo $! > .pidfile
 set +x
 
 echo 'Now you can'
