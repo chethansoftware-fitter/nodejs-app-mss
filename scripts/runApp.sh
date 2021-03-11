@@ -6,7 +6,7 @@ echo 'The following "npm" command runs your Node.js application'
 
 set -x
 npm start &
-sleep 1
+
 
 set +x
 
