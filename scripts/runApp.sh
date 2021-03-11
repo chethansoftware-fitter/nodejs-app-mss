@@ -5,7 +5,7 @@
 echo 'The following "npm" command runs your Node.js application'
 
 
-npm start &
+npm start
 
 
 
